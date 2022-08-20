@@ -29,4 +29,10 @@ print(s.lower())
 #set all to uppercase
 print(s.upper())
 
+#capitalize everything
+print(s.capitalize())
+
+#swap the cases!
+print(s.swapcase())
+
 
